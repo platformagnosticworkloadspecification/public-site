@@ -51,7 +51,7 @@ spec:
     api-dns:
       type: dns
   container:
-		variables:
+    variables:
       CONNECTION_STRING: postgresql://${resources.db.user}:${resources.db.password}@${resources.db.host}:${resources.db.port}/${resources.db.name}
   routes:
     resources.api-dns.host:
