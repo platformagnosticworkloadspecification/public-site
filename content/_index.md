@@ -8,7 +8,7 @@ weight=0
 ## What is “CAWS”?
 
 {{< hint info >}}
-CAWS _is currently in alpha if you’re interested to join and provide feedback go [here.](http://calendly.com)_
+CAWS _is currently in alpha if you’re interested to join and provide feedback go [here.](hhttps://forms.gle/z4MHQvdp4hYjv6eHA)_
 {{< /hint >}}
 
 CAWS is a specification for defining environment agnostic configuration for cloud based workloads. The CAWS configuration itself is saved alongside the code of the workload in source control. This configuration can then be combined with environment specific parameters to run the workload in the target environment. The same workload can then be run on completely different technology stacks without the developer needing to be an expert in any one of them.
