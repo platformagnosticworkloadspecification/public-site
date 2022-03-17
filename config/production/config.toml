@@ -118,3 +118,6 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
   # Add image for Open Graph
   # images = ["full_logo.png"]
+
+  # Set to true if you want to set all pages to noindex
+  noindex = true
