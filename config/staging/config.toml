@@ -48,7 +48,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
 [[menu.after]]
   name = "Contact"
-  url = "mailto:info@cloudagnosticworkloadspecification.com"
+  url = "mailto:info@caws.sh"
   weight = 20
 
 [params]
