@@ -40,7 +40,7 @@ Consider a product catalogue service that manages products. It’s API is availa
 The CAWS configuration might look as follows:
 
 ```bash
-apiVersion: spec.ca.ws/v1alpha1
+apiVersion: spec.caws.sh/v1alpha1
 kind: Workload
 metadata:
   name: products-catalog
