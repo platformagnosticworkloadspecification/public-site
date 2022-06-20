@@ -1,6 +1,6 @@
-# CAWS - Cloud-Agnostic Workload Specification
+# PAWS - Platform-Agnostic Workload Specification
 
-This repository holds the source code for the public community page [CAWS - Cloud-Agnostic Workload Specification](https://cloudagnosticworkloadspecification.com). We welcome public contributions. Please make sure to follow the instructions below to contribute. You can reach out to us [via email](mailto:info@cloudagnosticworkloadspecification.com) in case of any questions.
+This repository holds the source code for the public community page [PAWS - Platform-Agnostic Workload Specification](https://cloudagnosticworkloadspecification.com). We welcome public contributions. Please make sure to follow the instructions below to contribute. You can reach out to us [via email](mailto:info@cloudagnosticworkloadspecification.com) in case of any questions.
 
 ## How to contribute
 

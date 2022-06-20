@@ -1,5 +1,5 @@
 baseURL = 'https://caws.sh/'
-title = 'CAWS - Cloud-Agnostic Workload Specification'
+title = 'PAWS - Platform-Agnostic Workload Specification'
 theme = 'hugo-book'
 
 # (Optional) Set Google Analytics if you use it to track your website.
