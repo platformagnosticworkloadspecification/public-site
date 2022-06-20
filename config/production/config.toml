@@ -1,4 +1,4 @@
-baseURL = 'https://caws.sh/'
+baseURL = 'https://paws.sh/'
 title = 'PAWS - Platform-Agnostic Workload Specification'
 theme = 'hugo-book'
 
@@ -48,7 +48,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
 [[menu.after]]
   name = "Contact"
-  url = "mailto:info@caws.sh"
+  url = "mailto:info@paws.sh"
   weight = 20
 
 [params]
